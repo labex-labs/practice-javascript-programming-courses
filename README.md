@@ -4,27 +4,24 @@
 <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 </div>
 
-JavaScript is a programming language that can be used to create interactive web pages. Every modern web browser has built-in support for JavaScript, so it's easy to get started with this skill tree. 
+JavaScript is the programming language of the web. This Skill Tree presents a systematic approach to learning JavaScript. Designed for web development beginners, it provides a clear roadmap to understand core concepts, DOM manipulation, and asynchronous programming. Hands-on, non-video courses and coding exercises in an interactive JS playground ensure you develop practical skills in creating dynamic web applications.
 
-|   Index | Name                                                                                      | Level   | Repo                                                                   | Course Link                                                        |
-|---------|-------------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------|--------------------------------------------------------------------|
-|       1 | [Quick Start with JavaScript](https://labex.io/courses/quick-start-with-javascript)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript)    | [🚀 Start](https://labex.io/courses/quick-start-with-javascript)    |
-|       2 | [JavaScript Practice Labs](https://labex.io/courses/javascript-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/javascript-practice-labs)       | [🚀 Start](https://labex.io/courses/javascript-practice-labs)       |
-|       3 | [JavaScript Practice Challenges](https://labex.io/courses/javascript-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/javascript-practice-challenges) | [🚀 Start](https://labex.io/courses/javascript-practice-challenges) |
-|       4 | [Quick Start with jQuery](https://labex.io/courses/quick-start-with-jquery)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jquery)        | [🚀 Start](https://labex.io/courses/quick-start-with-jquery)        |
+|   Index | Name                                                                                | Level   | Repo                                                                | Course Link                                                     |
+|---------|-------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------|-----------------------------------------------------------------|
+|       1 | [Quick Start with JavaScript](https://labex.io/courses/quick-start-with-javascript) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Start](https://labex.io/courses/quick-start-with-javascript) |
 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
