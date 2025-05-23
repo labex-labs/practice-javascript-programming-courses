@@ -12,7 +12,7 @@ JavaScript es el lenguaje de programación de la web. Este Skill Tree ofrece una
 
 |   Índice | Nombre                                                                                    | Dificultad   | Repo                                                                 | Práctica                                                                          |
 |----------|-------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|        1 | [Comienzo rápido con JavaScript](https://labex.io/es/courses/quick-start-with-javascript) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-javascript) |
+|        1 | [Comienzo rápido con JavaScript](https://labex.io/es/courses/quick-start-with-javascript) | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-javascript) |
 
 ## Más
 
