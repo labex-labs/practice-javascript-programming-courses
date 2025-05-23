@@ -12,7 +12,7 @@ JavaScript является языком программирования для
 
 |   Индекс | Название                                                                              | Сложность   | Repo                                                                 | Практика                                                                         |
 |----------|---------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с JavaScript](https://labex.io/ru/courses/quick-start-with-javascript) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-javascript) |
+|        1 | [Быстрый старт с JavaScript](https://labex.io/ru/courses/quick-start-with-javascript) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-javascript) |
 
 ## Больше
 
