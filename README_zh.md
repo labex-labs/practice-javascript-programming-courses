@@ -12,7 +12,7 @@ JavaScript 是网页编程的核心语言。本技能树为你提供系统学习
 
 |   序号 | 名称                                                                           | 难度   | Repo                                                                 | 练习                                                                   |
 |--------|--------------------------------------------------------------------------------|--------|----------------------------------------------------------------------|------------------------------------------------------------------------|
-|      1 | [JavaScript 快速入门](https://labex.io/zh/courses/quick-start-with-javascript) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-javascript) |
+|      1 | [JavaScript 快速入门](https://labex.io/zh/courses/quick-start-with-javascript) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-javascript) |
 
 ## 更多
 
