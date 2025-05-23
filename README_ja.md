@@ -12,7 +12,7 @@ JavaScript はウェブのプログラミング言語です。このスキルツ
 
 |   インデックス | 名前                                                                                     | 難易度   | Repo                                                                 | 練習                                                                     |
 |----------------|------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|--------------------------------------------------------------------------|
-|              1 | [JavaScript のクイックスタート](https://labex.io/ja/courses/quick-start-with-javascript) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-javascript) |
+|              1 | [JavaScript のクイックスタート](https://labex.io/ja/courses/quick-start-with-javascript) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-javascript) |
 
 ## その他
 
