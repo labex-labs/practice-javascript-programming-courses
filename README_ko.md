@@ -12,7 +12,7 @@
 
 |   인덱스 | 이름                                                                            | 난이도   | Repo                                                                 | 연습                                                                    |
 |----------|---------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [JavaScript 퀵 스타트](https://labex.io/ko/courses/quick-start-with-javascript) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-javascript) |
+|        1 | [JavaScript 퀵 스타트](https://labex.io/ko/courses/quick-start-with-javascript) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-javascript) |
 
 ## 더 보기
 
