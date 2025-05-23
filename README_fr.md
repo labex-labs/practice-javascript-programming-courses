@@ -12,7 +12,7 @@ JavaScript est le langage de programmation du web. Cet arbre de compétences pro
 
 |   Index | Nom                                                                                         | Difficulté   | Repo                                                                 | Pratique                                                                       |
 |---------|---------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec JavaScript](https://labex.io/fr/courses/quick-start-with-javascript) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-javascript) |
+|       1 | [Démarrage rapide avec JavaScript](https://labex.io/fr/courses/quick-start-with-javascript) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-javascript) |
 
 ## Plus
 
