@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 </div>
 
-JavaScript é a linguagem de programação da web. Esta Skill Tree oferece uma maneira sistemática de aprender JavaScript. Feito sob medida para iniciantes em desenvolvimento web, ele fornece um roteiro claro para entender os conceitos básicos, manipulação do DOM e programação assíncrona. Cursos práticos, sem vídeo, e exercícios de codificação em um playground JS interativo ajudam você a desenvolver habilidades práticas para criar aplicativos web dinâmicos.
+Aprenda JavaScript, a linguagem de programação da web, com este roteiro de aprendizado estruturado. Estes cursos abrangentes de JavaScript são feitos sob medida para iniciantes, fornecendo um caminho claro para dominar conceitos essenciais, manipulação do DOM e programação assíncrona. Desenvolva habilidades práticas para criar aplicações web dinâmicas através de aulas práticas sem vídeo e exercícios de codificação em um playground JS interativo.
 
-|   Índice | Nome                                                                                    | Dificuldade   | Repo                                                                 | Prática                                                                   |
-|----------|-----------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [Início Rápido com JavaScript](https://labex.io/pt/courses/quick-start-with-javascript) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-javascript) |
+|   Índice | Nome                                                                               | Dificuldade   | Repo                                                              | Prática                                                                |
+|----------|------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------|------------------------------------------------------------------------|
+|        1 | [JavaScript para Iniciantes](https://labex.io/pt/courses/javascript-for-beginners) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/javascript-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/javascript-for-beginners) |
 
 ## Mais
 
